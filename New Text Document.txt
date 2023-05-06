@@ -1,0 +1,8 @@
+TRUENASCORE
+Truenascore is a range free brand open source project which typically means the storage it is based on BSD license it works on ixsystem linux and free based BSD.
+Truenascore provides a platform for storing large amount of data and access it whenever they require without any delay or streaking in the information it fetches back the data
+It basically works on 3 versions 
+Public version
+Commercial version
+Linux version
+It works both on macbooks windows it works on BSD license anf its available for all the individuals whos looking to storage large amount of data 
