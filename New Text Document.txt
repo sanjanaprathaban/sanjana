@@ -4,5 +4,5 @@ Truenascore provides a platform for storing large amount of data and access it w
 It basically works on 3 versions 
 Public version
 Commercial version
-Linux version
+
 It works both on macbooks windows it works on BSD license anf its available for all the individuals whos looking to storage large amount of data 
